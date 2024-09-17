@@ -2,7 +2,7 @@ body {
     color: rgb(255, 255, 255);
     background: rgb(27, 27, 27);
     margin: 0px;
-    font-family: "Chakra Petch", sans-serif;      
+    font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
 }
 
@@ -22,7 +22,7 @@ header {
 }
 
 .chamada-texto {
-    margin-right: 100px;
+    margin-right: 200px;
 }
 
 h1 {
@@ -57,4 +57,23 @@ p {
 
 .categoria h2 {
     color: white;
+}
+
+.meu-git img {
+    opacity: 0.75;
+    margin-top: 50px;
+    margin-left: 40%;
+    border-radius: 30px;
+}
+
+.meu-git h2 {
+    margin-left: 42.5%;
+}
+
+.meu-git h6 {
+    margin-left: 46.5%;
+}
+
+.meu-git img:hover {
+    opacity: 1.0;
 }
